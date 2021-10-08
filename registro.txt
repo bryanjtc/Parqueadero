@@ -1,0 +1,15 @@
+placa,marca,modelo,año,nombre,numero,color,email,cedula,licencia,r.u.v,poliza
+0304,bmw,bmw-i3,2019,Zayn Malek,64157890,azul
+2311,ford,focus,2014,Enrique Romel,67894567,rojo
+4334,honda,civic,2017,Ramses Quijano,62237812,verde
+3434,isuzu,d-max,2019,Betty Quintero,62321133,morado
+2133,nissan,leaf,2020,Ramon De La Cruz,65787890,gris
+4343,mazda,cx-3,1995,Amaya Smith,67832122,blanco
+1212,volkswagen,golf,2015,Zaydan Stone,60123671,amarillo
+1235,volvo,s90,2003,Jessica Betts,61238930,,jessica@yo.com,89341334,89341334,3213265756,mafre
+8675,kia,picanto,2008,Menaal Cherry,64413113,,menall@yo.com,78925678,78925678,2411432423,mafre
+8945,fiat,panda,2004,Reis Sheehan,67468783,,reis@yo.com,12345675,12345675,3423245353,mafre
+4325,audi,a2,2010,Joshua Barron,64448767,,joshua@yo.com
+9656,jeep,compass,2001,Kavan Flores,67557890,,kavan@yo.com
+636547575,Cadillac,Azulejo,2008,Ashid Nazar,67892334,azul,,,0,0,
+234242344234,jeep,wrangler,2020,Andy Lam,63423490,,andy@yo.com,58762334,58762334,543546456,4456456

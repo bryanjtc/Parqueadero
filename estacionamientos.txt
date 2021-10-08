@@ -1,0 +1,5 @@
+A1-vip,A2,A3,A4,A5,A6-premium,A7-vip
+B1,B2,B3,B4,B5,B6-premium,B7-premium
+C1,C2,C3,C4,C5-vip,C6,C7-premium
+D1,D2,D3,D4,D5-premium,D6-vip,D7-premium
+E1,E2,E3-vip,E4-vip,E5,E6,E7-premium
